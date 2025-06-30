@@ -169,23 +169,11 @@ voice-assistant/
 - Keep the application updated
 - Use wired headphones for better audio quality
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
 ## 📞 Support
 
 - **GitHub**: [Praveen1425](https://github.com/Praveen1425)
 - **LinkedIn**: [Praveen Muccharla](https://www.linkedin.com/in/praveen-muccharla-977302289/)
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 **Made with ❤️ by Praveen Muccharla** 
