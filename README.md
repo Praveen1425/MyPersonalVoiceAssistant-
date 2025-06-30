@@ -4,7 +4,7 @@ A modern, AI-powered voice assistant built with Streamlit that combines traditio
 
 ## 📹 Demo Video
 
-Watch the voice assistant in action! [Add your demo video here]
+Watch the voice assistant in action! [(https://github.com/Praveen1425/MyPersonalAssitant/blob/main/Sample%20Video.mp4)]
 
 **Demo Features:**
 - Voice command recognition
