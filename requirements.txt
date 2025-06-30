@@ -1,0 +1,8 @@
+streamlit
+pywhatkit
+wikipedia
+pyjokes
+speechrecognition
+pyaudio
+google-generativeai
+pillow 
